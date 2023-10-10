@@ -1,5 +1,5 @@
 # Bankist Website
-- [ ] Simple Vanilla JS one page game app;
+- [ ] Simple Vanilla JS one page site;
 - [ ] Page is not responsive;
 - [ ] To locally install/use it just donwload the code and open it with Live Server;
 - [ ] "Open account" has no real functionality;
